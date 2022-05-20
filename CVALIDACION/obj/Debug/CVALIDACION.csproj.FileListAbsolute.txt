@@ -1,0 +1,64 @@
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CVALIDACION\bin\Debug\CVALIDACION.dll
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CVALIDACION\bin\Debug\CVALIDACION.pdb
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CVALIDACION\obj\Debug\CVALIDACION.dll
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CVALIDACION\obj\Debug\CVALIDACION.pdb
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CVALIDACION\bin\Debug\CVALIDACION.dll
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CVALIDACION\bin\Debug\CVALIDACION.pdb
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CVALIDACION\obj\Debug\CVALIDACION.csprojResolveAssemblyReference.cache
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CVALIDACION\obj\Debug\CVALIDACION.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CVALIDACION\obj\Debug\CVALIDACION.dll
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CVALIDACION\obj\Debug\CVALIDACION.pdb
+E:\Control de Insumos de Macrocentro1\CVALIDACION\bin\Debug\CVALIDACION.dll
+E:\Control de Insumos de Macrocentro1\CVALIDACION\bin\Debug\CVALIDACION.pdb
+E:\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.csprojAssemblyReference.cache
+E:\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.csproj.CoreCompileInputs.cache
+E:\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.dll
+E:\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.pdb
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CVALIDACION\bin\Debug\CVALIDACION.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CVALIDACION\bin\Debug\CVALIDACION.pdb
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.csprojAssemblyReference.cache
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.pdb
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\CVALIDACION\bin\Debug\CVALIDACION.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\CVALIDACION\bin\Debug\CVALIDACION.pdb
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.csprojAssemblyReference.cache
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.csproj.CoreCompileInputs.cache
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.pdb
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CVALIDACION\bin\Debug\CVALIDACION.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CVALIDACION\bin\Debug\CVALIDACION.pdb
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.csprojAssemblyReference.cache
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.csproj.CoreCompileInputs.cache
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.pdb
+F:\281118\Control de Insumos de Macrocentro1\CVALIDACION\bin\Debug\CVALIDACION.dll
+F:\281118\Control de Insumos de Macrocentro1\CVALIDACION\bin\Debug\CVALIDACION.pdb
+F:\281118\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.csprojResolveAssemblyReference.cache
+F:\281118\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.csproj.CoreCompileInputs.cache
+F:\281118\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.dll
+F:\281118\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.pdb
+E:\281118\Control de Insumos de Macrocentro1\CVALIDACION\bin\Debug\CVALIDACION.dll
+E:\281118\Control de Insumos de Macrocentro1\CVALIDACION\bin\Debug\CVALIDACION.pdb
+E:\281118\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.csprojAssemblyReference.cache
+E:\281118\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.csproj.CoreCompileInputs.cache
+E:\281118\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.dll
+E:\281118\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.pdb
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CVALIDACION\bin\Debug\CVALIDACION.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CVALIDACION\bin\Debug\CVALIDACION.pdb
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.csprojAssemblyReference.cache
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CVALIDACION\obj\Debug\CVALIDACION.pdb
+C:\Users\ramon\OneDrive\Escritorio\REsG\CVALIDACION\bin\Debug\CVALIDACION.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\CVALIDACION\bin\Debug\CVALIDACION.pdb
+C:\Users\ramon\OneDrive\Escritorio\REsG\CVALIDACION\obj\Debug\CVALIDACION.csprojResolveAssemblyReference.cache
+C:\Users\ramon\OneDrive\Escritorio\REsG\CVALIDACION\obj\Debug\CVALIDACION.csproj.CoreCompileInputs.cache
+C:\Users\ramon\OneDrive\Escritorio\REsG\CVALIDACION\obj\Debug\CVALIDACION.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\CVALIDACION\obj\Debug\CVALIDACION.pdb
+F:\REsG\REsG\CVALIDACION\bin\Debug\CVALIDACION.dll
+F:\REsG\REsG\CVALIDACION\bin\Debug\CVALIDACION.pdb
+F:\REsG\REsG\CVALIDACION\obj\Debug\CVALIDACION.csprojAssemblyReference.cache
+F:\REsG\REsG\CVALIDACION\obj\Debug\CVALIDACION.csproj.CoreCompileInputs.cache
+F:\REsG\REsG\CVALIDACION\obj\Debug\CVALIDACION.dll
+F:\REsG\REsG\CVALIDACION\obj\Debug\CVALIDACION.pdb

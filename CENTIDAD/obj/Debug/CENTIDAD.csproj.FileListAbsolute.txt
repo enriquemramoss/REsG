@@ -1,0 +1,65 @@
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CENTIDAD\bin\Debug\CENTIDAD.dll
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CENTIDAD\bin\Debug\CENTIDAD.pdb
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CENTIDAD\obj\Debug\CENTIDAD.dll
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CENTIDAD\obj\Debug\CENTIDAD.pdb
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CENTIDAD\obj\Debug\CENTIDAD.csprojResolveAssemblyReference.cache
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CENTIDAD\bin\Debug\CENTIDAD.dll
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CENTIDAD\bin\Debug\CENTIDAD.pdb
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CENTIDAD\obj\Debug\CENTIDAD.csprojResolveAssemblyReference.cache
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CENTIDAD\obj\Debug\CENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CENTIDAD\obj\Debug\CENTIDAD.dll
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CENTIDAD\obj\Debug\CENTIDAD.pdb
+E:\Control de Insumos de Macrocentro1\CENTIDAD\bin\Debug\CENTIDAD.dll
+E:\Control de Insumos de Macrocentro1\CENTIDAD\bin\Debug\CENTIDAD.pdb
+E:\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.csprojAssemblyReference.cache
+E:\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.csproj.CoreCompileInputs.cache
+E:\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.dll
+E:\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.pdb
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CENTIDAD\bin\Debug\CENTIDAD.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CENTIDAD\bin\Debug\CENTIDAD.pdb
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.csprojAssemblyReference.cache
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.pdb
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CENTIDAD\bin\Debug\CENTIDAD.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CENTIDAD\bin\Debug\CENTIDAD.pdb
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.csprojAssemblyReference.cache
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.pdb
+F:\281118\Control de Insumos de Macrocentro1\CENTIDAD\bin\Debug\CENTIDAD.dll
+F:\281118\Control de Insumos de Macrocentro1\CENTIDAD\bin\Debug\CENTIDAD.pdb
+F:\281118\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.csprojResolveAssemblyReference.cache
+F:\281118\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.csproj.CoreCompileInputs.cache
+F:\281118\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.dll
+F:\281118\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.pdb
+E:\281118\Control de Insumos de Macrocentro1\CENTIDAD\bin\Debug\CENTIDAD.dll
+E:\281118\Control de Insumos de Macrocentro1\CENTIDAD\bin\Debug\CENTIDAD.pdb
+E:\281118\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.csprojAssemblyReference.cache
+E:\281118\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.csproj.CoreCompileInputs.cache
+E:\281118\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.dll
+E:\281118\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.pdb
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CENTIDAD\bin\Debug\CENTIDAD.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CENTIDAD\bin\Debug\CENTIDAD.pdb
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.csprojAssemblyReference.cache
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.pdb
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\CENTIDAD\bin\Debug\CENTIDAD.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\CENTIDAD\bin\Debug\CENTIDAD.pdb
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.csprojAssemblyReference.cache
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\CENTIDAD\obj\Debug\CENTIDAD.pdb
+C:\Users\kikin\Desktop\REsG\CENTIDAD\bin\Debug\CENTIDAD.dll
+C:\Users\kikin\Desktop\REsG\CENTIDAD\bin\Debug\CENTIDAD.pdb
+C:\Users\kikin\Desktop\REsG\CENTIDAD\obj\Debug\CENTIDAD.csprojAssemblyReference.cache
+C:\Users\kikin\Desktop\REsG\CENTIDAD\obj\Debug\CENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\kikin\Desktop\REsG\CENTIDAD\obj\Debug\CENTIDAD.dll
+C:\Users\kikin\Desktop\REsG\CENTIDAD\obj\Debug\CENTIDAD.pdb
+F:\REsG\REsG\CENTIDAD\bin\Debug\CENTIDAD.dll
+F:\REsG\REsG\CENTIDAD\bin\Debug\CENTIDAD.pdb
+F:\REsG\REsG\CENTIDAD\obj\Debug\CENTIDAD.csprojAssemblyReference.cache
+F:\REsG\REsG\CENTIDAD\obj\Debug\CENTIDAD.csproj.CoreCompileInputs.cache
+F:\REsG\REsG\CENTIDAD\obj\Debug\CENTIDAD.dll
+F:\REsG\REsG\CENTIDAD\obj\Debug\CENTIDAD.pdb

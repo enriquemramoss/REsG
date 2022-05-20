@@ -1,0 +1,721 @@
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\CPRESENTACION.csprojAssemblyReference.cache
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Carga.resources
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.FormMenu.resources
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInicio.resources
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Registro.resources
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.GenerateResource.cache
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CopyComplete
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInsumos.resources
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MConsultas.resources
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporte.resources
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.INICIO.resources
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\CENTIDAD.dll
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\CNEGOCIO.dll
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\CVALIDACION.dll
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\CDATOS.dll
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\CENTIDAD.pdb
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\CNEGOCIO.pdb
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\CVALIDACION.pdb
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\CDATOS.pdb
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRegistroUsuario.resources
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\CENTIDAD.dll
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\CNEGOCIO.dll
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\CVALIDACION.dll
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\CDATOS.dll
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\CENTIDAD.pdb
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\CNEGOCIO.pdb
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\CVALIDACION.pdb
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\bin\Debug\CDATOS.pdb
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\CPRESENTACION.csprojResolveAssemblyReference.cache
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Carga.resources
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.INICIO.resources
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MConsultas.resources
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.FormMenu.resources
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInicio.resources
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInsumos.resources
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRegistroUsuario.resources
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporte.resources
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.GenerateResource.Cache
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Shared.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\FlashControlV71.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\ShockwaveFlashObjects.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\stdole.dll
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.pdb
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.pdb
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.pdb
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.pdb
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csprojAssemblyReference.cache
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Carga.resources
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.INICIO.resources
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MConsultas.resources
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.FormMenu.resources
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInicio.resources
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInsumos.resources
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRegistroUsuario.resources
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporte.resources
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteInsumo.resources
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.GenerateResource.cache
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CoreCompileInputs.cache
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CopyComplete
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Vista.resources
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje.resources
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteEncargado.resources
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporterequisicion.resources
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteResguardo.resources
+E:\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRequisicion.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\FlashControlV71.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.pdb
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.pdb
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.pdb
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.pdb
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csprojAssemblyReference.cache
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Carga.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.INICIO.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MConsultas.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.FormMenu.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInicio.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInsumos.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRegistroUsuario.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporte.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteEncargado.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteInsumo.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporterequisicion.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteResguardo.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRequisicion.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Vista.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.GenerateResource.cache
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CopyComplete
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\FlashControlV71.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.pdb
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.pdb
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.pdb
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.pdb
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csprojAssemblyReference.cache
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Carga.resources
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.INICIO.resources
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MConsultas.resources
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje.resources
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.FormMenu.resources
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInicio.resources
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInsumos.resources
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRegistroUsuario.resources
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporte.resources
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteEncargado.resources
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteInsumo.resources
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporterequisicion.resources
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteResguardo.resources
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRequisicion.resources
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Vista.resources
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.GenerateResource.cache
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CopyComplete
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje2.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\FlashControlV71.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.pdb
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.pdb
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.pdb
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.pdb
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csprojAssemblyReference.cache
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Carga.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.INICIO.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MConsultas.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje2.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.FormMenu.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInicio.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInsumos.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRecuperarContra.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRegistroUsuario.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporte.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteEncargado.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteInsumo.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporterequisicion.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteResguardo.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRequisicion.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Vista.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.GenerateResource.cache
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CopyComplete
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gilberto Mendoza\Music\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\FlashControlV71.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.pdb
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.pdb
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.pdb
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.pdb
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csprojAssemblyReference.cache
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Carga.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.INICIO.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MConsultas.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje2.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.FormMenu.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInicio.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInsumos.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRecuperarContra.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRegistroUsuario.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporte.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteEncargado.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteInsumo.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporterequisicion.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteResguardo.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRequisicion.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Vista.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.GenerateResource.cache
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CopyComplete
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MUsuarios.resources
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MPrivilegios.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\ShockwaveFlashObjects.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\stdole.dll
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.pdb
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.pdb
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.pdb
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.pdb
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csprojResolveAssemblyReference.cache
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Carga.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.INICIO.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MConsultas.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje2.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.FormMenu.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInicio.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInsumos.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MPrivilegios.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRecuperarContra.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRegistroUsuario.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporte.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteEncargado.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteInsumo.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporterequisicion.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteResguardo.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRequisicion.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MUsuarios.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Vista.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.GenerateResource.Cache
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CoreCompileInputs.cache
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Shared.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\FlashControlV71.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\ShockwaveFlashObjects.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\stdole.dll
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.pdb
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.pdb
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.pdb
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.pdb
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csprojAssemblyReference.cache
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Carga.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.INICIO.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MConsultas.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje2.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.FormMenu.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInicio.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInsumos.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MPrivilegios.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRecuperarContra.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRegistroUsuario.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporte.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteEncargado.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteInsumo.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporterequisicion.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteResguardo.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRequisicion.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MUsuarios.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Vista.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.GenerateResource.cache
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CoreCompileInputs.cache
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CopyComplete
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\FlashControlV71.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.pdb
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.pdb
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.pdb
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.pdb
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csprojAssemblyReference.cache
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Carga.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.INICIO.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MConsultas.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje2.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.FormMenu.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInicio.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInsumos.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MPrivilegios.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRecuperarContra.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRegistroUsuario.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporte.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteEncargado.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteInsumo.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporterequisicion.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteResguardo.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRequisicion.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MUsuarios.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Vista.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.GenerateResource.cache
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CopyComplete
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\FlashControlV71.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CENTIDAD.pdb
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CNEGOCIO.pdb
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CVALIDACION.pdb
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\bin\Debug\CDATOS.pdb
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csprojAssemblyReference.cache
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Carga.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.INICIO.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MCatalogoReportes.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MConsultas.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje2.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.FormMenu.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInicio.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInsumos.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MPrivilegios.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRecuperarContra.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRegistroUsuario.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporte.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteEncargado.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteInsumo.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporterequisicion.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteResguardo.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRequisicion.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.MUsuarios.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMULARIOS.Vista.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.GenerateResource.cache
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\CPRESENTACION.csproj.CopyComplete
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CENTIDAD.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CNEGOCIO.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CVALIDACION.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\FlashControlV71.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\MaterialSkin.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CDATOS.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\stdole.dll
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CENTIDAD.pdb
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CNEGOCIO.pdb
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CVALIDACION.pdb
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CDATOS.pdb
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\CPRESENTACION.csprojAssemblyReference.cache
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.Carga.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.INICIO.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MCatalogoReportes.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MConsultas.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje2.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.FormMenu.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInicio.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInsumos.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MPrivilegios.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRecuperarContra.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRegistroUsuario.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporte.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteEncargado.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteInsumo.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporterequisicion.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteResguardo.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRequisicion.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MUsuarios.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.Vista.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\CPRESENTACION.csproj.GenerateResource.cache
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\CPRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\CPRESENTACION.csproj.CopyComplete
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kikin\Desktop\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRespayResta.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CENTIDAD.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CNEGOCIO.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CVALIDACION.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\FlashControlV71.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\MaterialSkin.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CDATOS.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\stdole.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CENTIDAD.pdb
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CNEGOCIO.pdb
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CVALIDACION.pdb
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CDATOS.pdb
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\CPRESENTACION.csprojResolveAssemblyReference.cache
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.Carga.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.INICIO.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MCatalogoReportes.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MConsultas.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje2.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.FormMenu.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInicio.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInsumos.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MPrivilegios.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRecuperarContra.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRegistroUsuario.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporte.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteEncargado.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteInsumo.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporterequisicion.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteResguardo.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRequisicion.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRespayResta.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MUsuarios.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.Vista.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\CPRESENTACION.csproj.GenerateResource.cache
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\CPRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\CPRESENTACION.csproj.CopyComplete
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ramon\OneDrive\Escritorio\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.pdb
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\WindowsFormsApp1.exe.config
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\WindowsFormsApp1.exe
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\WindowsFormsApp1.pdb
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CENTIDAD.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CNEGOCIO.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CVALIDACION.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\MaterialSkin.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CDATOS.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\ShockwaveFlashObjects.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\stdole.dll
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CENTIDAD.pdb
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CNEGOCIO.pdb
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CVALIDACION.pdb
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\bin\Debug\CDATOS.pdb
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\CPRESENTACION.csprojAssemblyReference.cache
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.Carga.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.INICIO.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MCatalogoReportes.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MConsultas.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.Mensaje2.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.FormMenu.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInicio.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MInsumos.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MPrivilegios.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRecuperarContra.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRegistroUsuario.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporte.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteEncargado.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteInsumo.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporterequisicion.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MReporteResguardo.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRequisicion.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MRespayResta.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.MUsuarios.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.FORMULARIOS.Vista.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\CPRESENTACION.csproj.GenerateResource.cache
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\CPRESENTACION.csproj.CoreCompileInputs.cache
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\CPRESENTACION.csproj.CopyComplete
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.exe
+F:\REsG\REsG\ControlDeInsumosDeptoSistemasITLP\obj\Debug\WindowsFormsApp1.pdb

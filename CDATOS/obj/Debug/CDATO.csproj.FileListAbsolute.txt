@@ -1,0 +1,126 @@
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CDATOS\bin\Debug\CDATOS.dll
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CDATOS\bin\Debug\CDATOS.pdb
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CDATOS\bin\Debug\CENTIDAD.dll
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CDATOS\bin\Debug\MaterialSkin.dll
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CDATOS\bin\Debug\CENTIDAD.pdb
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CDATOS\obj\Debug\CDATOS.dll
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CDATOS\obj\Debug\CDATOS.pdb
+C:\Users\kikin\Desktop\Gestion de Proyectos de Software\Control de Insumos de Macrocentro\CDATOS\obj\Debug\CDATO.csprojResolveAssemblyReference.cache
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CDATOS\bin\Debug\CDATOS.dll
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CDATOS\bin\Debug\CDATOS.pdb
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CDATOS\bin\Debug\CENTIDAD.dll
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CDATOS\bin\Debug\MaterialSkin.dll
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CDATOS\bin\Debug\CENTIDAD.pdb
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CDATOS\obj\Debug\CDATO.csprojResolveAssemblyReference.cache
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CDATOS\obj\Debug\CDATO.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CDATOS\obj\Debug\CDATOS.dll
+C:\Users\Gilberto Mendoza\source\Workspaces\Control de Insumos de Macrocentro\CDATOS\obj\Debug\CDATOS.pdb
+E:\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CDATOS.dll
+E:\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CDATOS.pdb
+E:\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CENTIDAD.dll
+E:\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\MaterialSkin.dll
+E:\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CENTIDAD.pdb
+E:\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csprojAssemblyReference.cache
+E:\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csproj.CoreCompileInputs.cache
+E:\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csproj.CopyComplete
+E:\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATOS.dll
+E:\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATOS.pdb
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CDATOS.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CDATOS.pdb
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CENTIDAD.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\MaterialSkin.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CENTIDAD.pdb
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csprojAssemblyReference.cache
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csproj.CopyComplete
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATOS.dll
+C:\Users\Gilberto Mendoza\Pictures\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATOS.pdb
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CDATOS.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CDATOS.pdb
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CENTIDAD.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\MaterialSkin.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CENTIDAD.pdb
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csprojAssemblyReference.cache
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csproj.CoreCompileInputs.cache
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csproj.CopyComplete
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATOS.dll
+C:\Users\kikin\Downloads\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATOS.pdb
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CDATOS.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CDATOS.pdb
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CENTIDAD.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\MaterialSkin.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CENTIDAD.pdb
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csprojAssemblyReference.cache
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csproj.CoreCompileInputs.cache
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csproj.CopyComplete
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATOS.dll
+C:\Users\kikin\Downloads\Insumoelbueno1\Insumoelbueno\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATOS.pdb
+F:\281118\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CDATOS.dll
+F:\281118\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CDATOS.pdb
+F:\281118\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CENTIDAD.dll
+F:\281118\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\MaterialSkin.dll
+F:\281118\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CENTIDAD.pdb
+F:\281118\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csprojResolveAssemblyReference.cache
+F:\281118\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csproj.CoreCompileInputs.cache
+F:\281118\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATOS.dll
+F:\281118\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATOS.pdb
+E:\281118\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CDATOS.dll
+E:\281118\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CDATOS.pdb
+E:\281118\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CENTIDAD.dll
+E:\281118\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\MaterialSkin.dll
+E:\281118\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CENTIDAD.pdb
+E:\281118\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csprojAssemblyReference.cache
+E:\281118\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csproj.CoreCompileInputs.cache
+E:\281118\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csproj.CopyComplete
+E:\281118\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATOS.dll
+E:\281118\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATOS.pdb
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CDATOS.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CDATOS.pdb
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CENTIDAD.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\MaterialSkin.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CENTIDAD.pdb
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csprojAssemblyReference.cache
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csproj.CopyComplete
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATOS.dll
+C:\Users\Gilberto Mendoza\Videos\281118\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATOS.pdb
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CDATOS.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CDATOS.pdb
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CENTIDAD.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\MaterialSkin.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\CDATOS\bin\Debug\CENTIDAD.pdb
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csprojAssemblyReference.cache
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csproj.CoreCompileInputs.cache
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATO.csproj.CopyComplete
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATOS.dll
+C:\Users\kikin\Desktop\Control de Insumos de Macrocentro1\CDATOS\obj\Debug\CDATOS.pdb
+C:\Users\kikin\Desktop\REsG\CDATOS\bin\Debug\CDATOS.dll
+C:\Users\kikin\Desktop\REsG\CDATOS\bin\Debug\CDATOS.pdb
+C:\Users\kikin\Desktop\REsG\CDATOS\bin\Debug\CENTIDAD.dll
+C:\Users\kikin\Desktop\REsG\CDATOS\bin\Debug\MaterialSkin.dll
+C:\Users\kikin\Desktop\REsG\CDATOS\bin\Debug\CENTIDAD.pdb
+C:\Users\kikin\Desktop\REsG\CDATOS\obj\Debug\CDATO.csprojAssemblyReference.cache
+C:\Users\kikin\Desktop\REsG\CDATOS\obj\Debug\CDATO.csproj.CoreCompileInputs.cache
+C:\Users\kikin\Desktop\REsG\CDATOS\obj\Debug\CDATO.csproj.CopyComplete
+C:\Users\kikin\Desktop\REsG\CDATOS\obj\Debug\CDATOS.dll
+C:\Users\kikin\Desktop\REsG\CDATOS\obj\Debug\CDATOS.pdb
+C:\Users\ramon\OneDrive\Escritorio\REsG\CDATOS\bin\Debug\CDATOS.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\CDATOS\bin\Debug\CDATOS.pdb
+C:\Users\ramon\OneDrive\Escritorio\REsG\CDATOS\bin\Debug\CENTIDAD.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\CDATOS\bin\Debug\MaterialSkin.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\CDATOS\bin\Debug\CENTIDAD.pdb
+C:\Users\ramon\OneDrive\Escritorio\REsG\CDATOS\obj\Debug\CDATO.csprojResolveAssemblyReference.cache
+C:\Users\ramon\OneDrive\Escritorio\REsG\CDATOS\obj\Debug\CDATO.csproj.CoreCompileInputs.cache
+C:\Users\ramon\OneDrive\Escritorio\REsG\CDATOS\obj\Debug\CDATO.csproj.CopyComplete
+C:\Users\ramon\OneDrive\Escritorio\REsG\CDATOS\obj\Debug\CDATOS.dll
+C:\Users\ramon\OneDrive\Escritorio\REsG\CDATOS\obj\Debug\CDATOS.pdb
+F:\REsG\REsG\CDATOS\bin\Debug\CDATOS.dll
+F:\REsG\REsG\CDATOS\bin\Debug\CDATOS.pdb
+F:\REsG\REsG\CDATOS\bin\Debug\CENTIDAD.dll
+F:\REsG\REsG\CDATOS\bin\Debug\MaterialSkin.dll
+F:\REsG\REsG\CDATOS\bin\Debug\CENTIDAD.pdb
+F:\REsG\REsG\CDATOS\obj\Debug\CDATO.csprojAssemblyReference.cache
+F:\REsG\REsG\CDATOS\obj\Debug\CDATO.csproj.CoreCompileInputs.cache
+F:\REsG\REsG\CDATOS\obj\Debug\CDATO.csproj.CopyComplete
+F:\REsG\REsG\CDATOS\obj\Debug\CDATOS.dll
+F:\REsG\REsG\CDATOS\obj\Debug\CDATOS.pdb
